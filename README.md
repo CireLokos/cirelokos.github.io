@@ -1,5 +1,6 @@
 # cirelokos.github.io
 Sokol Games Studios Pivacy Policy
+
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
