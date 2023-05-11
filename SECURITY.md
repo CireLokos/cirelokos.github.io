@@ -4,7 +4,7 @@
 
 PRIVACY NOTICE
 
-Last updated February 04, 2021
+Last updated April 11, 2023
 
 
 
